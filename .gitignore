@@ -1,0 +1,13 @@
+ Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm project settings
+.idea/
+
+# Local student records
+student_record.json
